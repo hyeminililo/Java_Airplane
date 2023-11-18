@@ -1,10 +1,3 @@
-/* 학기 : 1학기
- * 과목 : Java 프로그래밍 
- * 과제 : J7
- * 소속 : IT 융합 자율학부
- * 이름 : 남궁혜민
- * 학번 : 202214052 
- */
 
 import java.util.ArrayList;
 import java.util.Iterator;
